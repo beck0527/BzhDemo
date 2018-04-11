@@ -1,0 +1,16 @@
+PODS:
+  - BzhDemo (0.1.0)
+
+DEPENDENCIES:
+  - BzhDemo (from `../`)
+
+EXTERNAL SOURCES:
+  BzhDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BzhDemo: cdf4292ce3520506a1c42a307a1f9074c0180795
+
+PODFILE CHECKSUM: b490391d3fb55f42e66f7b0f4a1c2f69ec65ae79
+
+COCOAPODS: 1.5.0
